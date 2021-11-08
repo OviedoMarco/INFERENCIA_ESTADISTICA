@@ -36,9 +36,9 @@ _En este proyecto exploraremos los aspectos básicos del análisis estadístico 
 ## Archivos 🛠️
 
 * [Notebook](https://github.com/OviedoMarco/INFERENCIA_ESTADISTICA/blob/main/PIA_INFERENCIA_ESTADISTICA.ipynb) - R en Colab
-* [Trabajo Final](https://github.com/OviedoMarco/Mineria_de_datos/blob/main/Equipo_9-Ejercicio%20base%20de%20datos.pptx.pdf) - PDF
-* [Presentación](https://github.com/OviedoMarco/Mineria_de_datos/blob/main/Ej_Python_1851698.ipynb) - PDF
-* [Notebook de apoyo](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Ej_Limpieza_Equipo09%20.ipynb) - Python en Colab
+* [Trabajo Final](https://github.com/OviedoMarco/INFERENCIA_ESTADISTICA/blob/main/pia%20inferencia%20.pdf) - PDF
+* [Presentación](https://github.com/OviedoMarco/INFERENCIA_ESTADISTICA/blob/main/Inferencia%20Estadistica.pdf) - PDF
+* [Notebook de apoyo](https://github.com/OviedoMarco/INFERENCIA_ESTADISTICA/blob/main/APOYO.ipynb) - Python en Colab
 
 ---
 Github [OviedoMarco](https://github.com/OviedoMarco) ✒️
