@@ -31,7 +31,7 @@ _En este proyecto exploraremos los aspectos básicos del análisis estadístico 
 
 ### Base de Datos ⌨️
 
-* [Examen Diagnostico](https://github.com/OviedoMarco/Mineria_de_datos/blob/main/Examen_1851698.pdf)
+* [Rentas]https://github.com/OviedoMarco/INFERENCIA_ESTADISTICA/blob/main/real_estate_db.csv)
 
 ## Archivos 🛠️
 
