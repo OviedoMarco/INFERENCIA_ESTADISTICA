@@ -31,7 +31,7 @@ _En este proyecto exploraremos los aspectos básicos del análisis estadístico 
 
 ### Base de Datos ⌨️
 
-* [Rentas]https://github.com/OviedoMarco/INFERENCIA_ESTADISTICA/blob/main/real_estate_db.csv)
+* [Rentas](https://github.com/OviedoMarco/INFERENCIA_ESTADISTICA/blob/main/real_estate_db.csv)
 
 ## Archivos 🛠️
 
